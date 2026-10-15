@@ -591,9 +591,11 @@ public import Physlib.StringTheory.FTheory.SU5.Quanta.FiveQuanta
 public import Physlib.StringTheory.FTheory.SU5.Quanta.IsViable
 public import Physlib.StringTheory.FTheory.SU5.Quanta.TenQuanta
 public import Physlib.Thermodynamics.Basic
+public import Physlib.Thermodynamics.EquilibriumState
 public import Physlib.Thermodynamics.IdealGas.Basic
 public import Physlib.Thermodynamics.Temperature.Basic
 public import Physlib.Thermodynamics.Temperature.TemperatureUnits
+public import Physlib.Thermodynamics.WallsAndConstraints
 public import Physlib.Units.Basic
 public import Physlib.Units.Dimension
 public import Physlib.Units.Examples
